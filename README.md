@@ -3,7 +3,7 @@
 A simple, modern ToDo list web app built with HTML, CSS, and JavaScript. Tasks are stored in your browser using localStorage, so your list persists even after closing the page.
 
 ---
-![image](https://github.com/user-attachments/assets/c7f035eb-6c40-437c-8517-2bdca690d5ae)
+
 
 ## Features
 
