@@ -15,6 +15,16 @@ A simple, modern ToDo list web app built with HTML, CSS, and JavaScript. Tasks a
 
 ---
 
+## Topics
+
+- **DOM Manipulation:** Dynamically create, update, and remove task elements.
+- **Event Handling:** Respond to user actions like clicks for adding, completing, and deleting tasks.
+- **Local Storage:** Persist tasks in the browser so they are not lost on reload.
+- **Responsive Design:** Uses CSS Flexbox for layout and modern UI styling.
+- **Accessibility:** Large clickable areas and clear visual feedback.
+
+---
+
 ## Getting Started
 
 1. **Clone or Download the Repository**
