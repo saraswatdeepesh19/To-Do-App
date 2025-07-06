@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To Do App</title>
+    <link rel="stylesheet" href="../css/todo.css" />
+    <script src="../js/todo.js" defer></script>
+  </head>
+  <body class="body-container">
+    <header class="header-container"><h1>To Do App</h1></header>
+    <main class="main-container">
+      <div class="card-container">
+        <h3>TO DO APP</h3>
+        <div class="card">
+          <input
+            class="card-input"
+            type="text"
+            id="todo-input"
+            placeholder="Add a new task..."
+          />
+          <button id="add-todo-button" onclick="addTask()">Add</button>
+        </div>
+        <ul id="todo-list">
+          <!-- To Do items will be added here dynamically -->
+        </ul>
+      </div>
+    </main>
+    <footer class="footer-container">@Deepesh Saraswat</footer>
+  </body>
+</html>
